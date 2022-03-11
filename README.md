@@ -1,5 +1,5 @@
 Cette ressource est un rework du yKarting ! 
-Le Script en lui même n'a pas était fait pas moi !
+Le code n'a pas était fait par moi !
 
 Je l'ai transformé en location de véhicule pour drift avec le circuit.
 
